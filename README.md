@@ -3285,7 +3285,7 @@
      ```javascript
      this.props.history.push({
        pathname: '/template',
-       search: '?name=sudheer',
+       search: '?name=itengineers8j',
        state: { detail: response.data }
      })
      ```
